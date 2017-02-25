@@ -72,7 +72,7 @@ To the degree that we can more fully liberate ourselves from the guilt that stra
 
 &nbsp;
 
-<em>Cock Tales–The Play</em> is more personal than anything I've ever written as I'm revealing the boldest things I've never told, but I think its time to bring these stories to light.[/vc_column_text][vc_empty_space][vc_column_text el_class="post-production"]
+<em>Cock Tales–The Play</em> is more personal than anything I've ever written as I'm revealing the boldest things I've never told, but I think its time to bring these stories to light.[/vc_column_text][vc_column_text el_class="post-production"]
 <h2>Post Production Images</h2>
 [/vc_column_text][TS_VCSC_Lightbox_Gallery lightbox_size="large" content_images="757,758,759,760,761,762" content_images_alts="CockTales Image 1,CockTales Image 2,CockTales Image 3,CockTales Image 4,CockTales Image 5,CockTales Image 6" data_grid_shuffle="true" lightbox_effect="fade" lightbox_backlight="hideit"][/TS_VCSC_Lightbox_Gallery][vc_empty_space height="75px"][vc_row_inner][vc_column_inner width="1/2"][cq_vc_materialcard title="Jamaica Observer: Cock Tales Aims to Satisfy Patrons" icon_fontawesome=""]JAMAICAN-BORN actress Debra Ehrhardt returns for one-woman show Cock Tales at the Jamaica Shopping Club Theatre in St Andrew. The production, which began last night at 6:00 pm, is scheduled for a four-week run. Ehrhardt spoke to the Jamaica Observer at the play’s launch at the Jamaica Shopping Club Theatre on Tuesday evening.
 
