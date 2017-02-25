@@ -19,7 +19,7 @@ layout_key:
 post_slider_check_key:
   - "0"
 ---
-Your privacy is important to Us. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.
+[vc_row][vc_column][vc_empty_space height="75px"][vc_column_text]Your privacy is important to Us. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.
 <h3>Personal information collection</h3>
 <span class="m2bbody">We may collect and use the following kinds of personal information:</span>
 <ul>
@@ -49,4 +49,4 @@ Your privacy is important to Us. This privacy statement provides information abo
 <h3>Other websites</h3>
 <span class="m2bbody">This website contains links to other websites. We are not responsible for the privacy policies or practices of any third party.</span>
 <h3>Contact</h3>
-<span class="m2bbody">If you have any questions about this privacy policy or our treatment of your personal information, please write to <a href="mailto:webmaster@cocktalestheplay.com">webmaster@CockTalesThePlay.com</a>.</span>
+<span class="m2bbody">If you have any questions about this privacy policy or our treatment of your personal information, please write to <a href="mailto:webmaster@cocktalestheplay.com">webmaster@CockTalesThePlay.com</a>.</span>[/vc_column_text][vc_empty_space height="75px"][/vc_column][/vc_row]
