@@ -26,7 +26,7 @@ To the degree that we can more fully liberate ourselves from the guilt that stra
 
 &nbsp;
 
-<em>Cock Tales–The Play</em> is more personal than anything I've ever written as I'm revealing the boldest things I've never told, but I think its time to bring these stories to light.[/vc_column_text][vc_column_text el_class="about-h2"]
+<em>Cock Tales–The Play</em> is more personal than anything I've ever written as I'm revealing the boldest things I've never told, but I think its time to bring these stories to light.[/vc_column_text][vc_btn title="Buy Tickets" color="danger" size="lg" align="center" i_align="right" i_icon_fontawesome="fa fa-ticket" add_icon="true" link="url:%23upcoming-shows|title:Buy%20Tickets%20Now||" el_class="cta-buy-tickets"][vc_column_text el_class="about-h2"]
 <h2>Post-Production Images</h2>
 [/vc_column_text][TS_VCSC_Lightbox_Gallery lightbox_size="large" content_images="757,758,759,760,761,762" content_images_alts="CockTales Image 1,CockTales Image 2,CockTales Image 3,CockTales Image 4,CockTales Image 5,CockTales Image 6" data_grid_shuffle="true" lightbox_effect="fade" lightbox_backlight="hideit"][/TS_VCSC_Lightbox_Gallery][vc_column_text el_class="about-h2"]
 <h2>News</h2>
